@@ -15,13 +15,13 @@ body {
 h1 {
   text-align: center;
   position: relative;
-  color: white;
-  font-size: 35pt;
+  color: green;
+  font-size: 12pt;
 }
 h2 {
   text-align: center;
   position: relative;
-  color: gold;
+  color: white;
   font-size: 25pt;
 }
 #main p {
@@ -29,15 +29,15 @@ h2 {
   position: relative;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 150px;
+  margin-top: 250px;
   font-family: sans-serif;
   width: 500px;
   font-size: 20pt;
-  color: darkviolet;
+  color: purple;
 }
 #foot-links p{
-  font-size: 18pt;
+  font-size: 25pt;
   text-align: center;
-  margin-top: 80px;
+  margin-top: 70px;
   position: relative;
 }
