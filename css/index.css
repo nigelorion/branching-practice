@@ -12,18 +12,14 @@ body {
   position: absolute;
   width: 100%;
 }
+
 h1 {
   text-align: center;
   position: relative;
   color: white;
   font-size: 35pt;
 }
-h2 {
-  text-align: center;
-  position: relative;
-  color: gold;
-  font-size: 25pt;
-}
+
 #main p {
   text-align: center;
   position: relative;
@@ -35,6 +31,7 @@ h2 {
   font-size: 20pt;
   color: darkviolet;
 }
+
 #foot-links p{
   font-size: 18pt;
   text-align: center;
